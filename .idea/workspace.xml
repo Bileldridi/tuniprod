@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="637e3d4b-b968-46f2-afa7-47180b1a5f3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a81v0ftwiV2QmyC5TCzOBXL7mD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/java - tp/Gestion-Magasin(Prosit3)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="tn.tuniprod.gestionmagasin.Main" />
+      <module name="challenge1" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="637e3d4b-b968-46f2-afa7-47180b1a5f3f" name="Default Changelist" comment="" />
+      <created>1586102633679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586102633679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586735336797">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586735336797" />
+    <state x="1107" y="179" key="#com.intellij.ide.util.MemberChooser" timestamp="1586787237715">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1107" y="179" key="#com.intellij.ide.util.MemberChooser/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586787237715" />
+    <state x="-914" y="157" key="#com.intellij.ide.util.MemberChooser/-1366.93.1366.728/0.0.1680.1010@-1366.93.1366.728" timestamp="1586119048203" />
+    <state x="900" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586196256969" />
+    <state x="569" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586735334258">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="569" y="288" key="#com.intellij.ide.util.TreeClassChooserDialog/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586735334258" />
+    <state x="569" y="164" key="FileChooserDialogImpl" timestamp="1586786283532">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-903" y="230" key="FileChooserDialogImpl/-1366.112.1366.728/0.0.1680.1010@-1366.112.1366.728" timestamp="1586728764905" />
+    <state x="569" y="164" key="FileChooserDialogImpl/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586786283532" />
+    <state x="-903" y="211" key="FileChooserDialogImpl/-1366.93.1366.728/0.0.1680.1010@-1366.93.1366.728" timestamp="1586102924377" />
+    <state x="569" y="164" key="FileChooserDialogImpl/-1366.93.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586197977302" />
+    <state width="1637" height="179" key="GridCell.Tab.0.bottom" timestamp="1586809362001">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="179" key="GridCell.Tab.0.bottom/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586809362001" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/-1366.93.1366.728/0.0.1680.1010@-1366.93.1366.728" timestamp="1586124923551" />
+    <state width="1637" height="179" key="GridCell.Tab.0.bottom/-1366.93.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586197978353" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586196343921" />
+    <state width="1637" height="179" key="GridCell.Tab.0.center" timestamp="1586809362001">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="179" key="GridCell.Tab.0.center/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586809362001" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/-1366.93.1366.728/0.0.1680.1010@-1366.93.1366.728" timestamp="1586124923551" />
+    <state width="1637" height="179" key="GridCell.Tab.0.center/-1366.93.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586197978353" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586196343921" />
+    <state width="1637" height="179" key="GridCell.Tab.0.left" timestamp="1586809362001">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="179" key="GridCell.Tab.0.left/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586809362001" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/-1366.93.1366.728/0.0.1680.1010@-1366.93.1366.728" timestamp="1586124923551" />
+    <state width="1637" height="179" key="GridCell.Tab.0.left/-1366.93.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586197978353" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586196343921" />
+    <state width="1637" height="179" key="GridCell.Tab.0.right" timestamp="1586809362001">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="179" key="GridCell.Tab.0.right/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586809362001" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/-1366.93.1366.728/0.0.1680.1010@-1366.93.1366.728" timestamp="1586124923551" />
+    <state width="1637" height="179" key="GridCell.Tab.0.right/-1366.93.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586197978353" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586196343921" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586174632931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1586174632931" />
+    <state x="535" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1587052835529">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="535" y="328" key="com.intellij.ide.util.TipDialog/-1366.112.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1587052835529" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1586182596649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-941" y="93" key="refactoring.ChangeSignatureDialog/-1366.93.1366.728/0.0.1680.1010@-1366.93.1366.728" timestamp="1586113399278" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1586182596649" />
+  </component>
+</project>
